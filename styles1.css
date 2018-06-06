@@ -1,0 +1,214 @@
+#one{
+	padding:  0 0 0 320px;
+	margin: 0;
+	color: blue;
+	background-color: #ff6200;
+	max-height: 35px;
+	max-width: 1600px;
+	font-size:12px;
+	font-family: "Microsoft Sans" , Serif;
+
+}
+#one1{
+	color: #be3600;
+}
+#one2{
+	color: white;
+}
+#two{
+	margin: 0;
+	background-color: #f9f9f9 ;
+	max-width:1600px ;
+	min-height:110px ;
+}
+#two1{
+	padding:  25px 0 0 315px;
+}
+#two22{
+	
+	float: right;
+	padding-left: 320px;
+}
+
+#two2{
+	text-decoration: none;
+	color: black;
+	padding-left: 30px;
+	padding-top: 21px;
+
+
+ 
+a:hover   {
+  text-decoration: underline;
+  font-weight:      bold;
+  text-decoration-color: #ff6200;
+  text-decoration-line: underline;
+  text-decoration-line min-width: 5px;  
+  }
+a:active  {
+  text-decoration:  underline;
+  font-weight:      bold;
+  text-decoration-color: #ff6200;
+  text-decoration-line: underline;
+  text-decoration-line min-width: 5px; 
+  } }
+  #three{
+  	padding-left: 320px;
+	padding-top: 40px;
+  }
+  #three1{
+	
+	color: black;
+	text-decoration: none;
+a:hover   {
+  
+  font-weight:      bold;
+ 
+  }
+}
+#four{
+	color: #ff6200;
+	padding-left: 320px;
+	font-size:41.13px; 
+}
+#five{
+	padding-top: 0;
+	color: black;
+	padding-left: 320px;
+	font-size: 14px; 
+}
+
+#six1{
+	 width: 480px;
+    height: 37px;
+    margin-left:  320px;
+    box-sizing: border-box;
+    border: none;
+    background-color: #f9f9f9;
+    color: #969696;
+
+}
+#six2{
+	 width: 235px;
+    height: 37px;
+    margin-left:  320px;
+    box-sizing: border-box;
+    border: none;
+    background-color: #f9f9f9;
+    color: #969696;
+	
+}
+#six3{
+	 width: 235px;
+    height: 37px;
+    margin: 5px;
+    box-sizing: border-box;
+    border: none;
+    background-color: #f9f9f9;
+    color: #969696;
+	
+}
+
+
+
+#six4{
+	width: 480px;
+    height: 110px;
+    margin-left:  320px;
+    box-sizing: border-box;
+    border: none;
+    border-width: 10px;
+    border-style: line;
+    border-style-color:  #969696;
+    background-color: #f9f9f9;
+    color: #969696;
+	
+}
+#six5{
+	background-color: #ff6200;
+	color: white;
+	min-width: 100px;
+	height: 40px;
+	
+	margin-left: 320px;
+	margin-top: 25px;
+	font-size: 14px;
+	display: inline-block;
+}
+#seven{
+	margin-top: 0;
+	padding-left: 70px;
+	display: inline-table;
+	font-size: 14px;
+	font-style: "Myriad Pro";
+}
+
+
+#eight4{
+	
+  display: table-row;
+	
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  
+}
+
+.fa-facebook {
+	min-height: 22px;
+	min-width: 27px;
+	margin: 5px;	
+  background: black;
+  color: white;
+}
+
+.fa-twitter {
+	margin: 5px;
+  background: #e9e9e9  ;
+  color: white;
+}
+.fa-linkedin {
+	margin: 5px;
+  background:  #e9e9e9 ;
+  color: white;
+}
+
+.fa-pinterest {
+	margin: 5px;
+  background:  #e9e9e9;
+  color: white;
+}
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {background-color: #f9f9f9}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    font-weight: bold;
+}
+
+.dropdown:hover .dropbtn {
+     
+    font-weight: bold;
+}
